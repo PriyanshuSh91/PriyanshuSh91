@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Priyanshu Sharma
 
-<!--
-**PriyanshuSh91/PriyanshuSh91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 .NET Developer | Web Developer | Learner
 
-Here are some ideas to get you started:
+I am passionate about building real-world web applications using modern technologies. 
+I love learning new things and improving my coding skills every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+- C#
+- ASP.NET / .NET Core
+- SQL Server
+- JavaScript
+- HTML / CSS
+- REST APIs
+
+---
+
+## 📂 Projects
+🔹 Gym Management System (ASP.NET + JWT)  
+🔹 Payment Gateway Integration (PhonePe)  
+🔹 Resume Builder Web App  
+🔹 Mini Projects & Practice Apps  
+
+👉 Check my repositories below 👇
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/priyanshu-kumar-06b636368/
+- Email: priyanshusharma.org@gmail.com
+
+---
+
+⭐ If you like my work, feel free to star my repositories!
